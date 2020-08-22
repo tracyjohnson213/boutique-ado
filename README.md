@@ -37,3 +37,38 @@ We continually tweak and adjust this template to help give you the best experien
 --------
 
 Happy coding!
+
+## Technology used
+[Django](https://www.djangoproject.com/) - Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.
+[Django allauth](https://django-allauth.readthedocs.io/) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
+
+## User Stories
+|ID|As a/an|I want to...|in order to...|
+|--|--|--|--|
+|1|shopper|view list of products|select some to purchase|
+|2|shopper|view individual product|id price, desc, rating, image, available size|
+|3|shopper|id deals, clearance items, specials|take advantage of savings|
+|4|shopper|view total of purchases|avoid overspending|
+|5|site user|register account|view my profile|
+|6|site user|login/logout|access account info|
+|7|site user|recover password|recover access to account|
+|8|site user|get email confirmation|verify registration success|
+|9|site user|have personal profile|view order history, order confirmation, save payment info|
+|10|shopper|sort available products|id best rated, best priced, sort products|
+|11|shopper|sort category of products|id best rated, best priced, sort products in category|
+|12|shopper|sort multiple categories|id best rated, best priced, sort products in multiple categories|
+|13|shopper|search by name or description|find specific product|
+|14|shopper|see search results and count|decide availability|
+|15|shopper|select size and qty|to get correct|
+|16|shopper|view cart|id total|
+|17|shopper|adjust qty|change purchase|
+|18|shopper|enter payment info|check out quickly|
+|19|shopper|feel personal info is safe and secure|be confident in shopping|
+|20|shopper|view order confirmation|verify no mistakes|
+|21|shopper|get order confirmation email|keep record|
+|22|store owner|add product|add items to store|
+|23|store owner|edit/update products|change price, desc, image, others|
+|24|store owner|delete products|remove items from store|
+|..|login with social media||
+|..|use google play/apple pay||
+
