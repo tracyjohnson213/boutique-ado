@@ -40,6 +40,7 @@ Happy coding!
 
 ## Technology used
 [Django](https://www.djangoproject.com/) - Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.
+
 [Django allauth](https://django-allauth.readthedocs.io/) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
 
 ## User Stories
